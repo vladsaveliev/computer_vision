@@ -1,2 +1,1 @@
-opengl
-======
+Computer vision labs
